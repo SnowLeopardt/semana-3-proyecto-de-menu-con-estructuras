@@ -6,7 +6,8 @@ namespace semana_3_proyecto_de_menu_con_estructuras
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Proyecto de menu sobre las estructuras");
+            System.Console.WriteLine("Proyecto de menu sobre las estructuras");
+            
         }
     }
 }
