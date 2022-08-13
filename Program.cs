@@ -72,6 +72,10 @@ namespace semana_3_proyecto_de_menu_con_estructuras
                     programa_dowhile();
                     break;
 
+                default:
+                    System.Console.WriteLine("opcion no valida");
+                    break;
+
                
               
                         
@@ -79,6 +83,32 @@ namespace semana_3_proyecto_de_menu_con_estructuras
 
             }
 
+        }
+
+        private static void programa_dowhile()
+        {
+            System.Console.WriteLine("Aqui llamo el ejemplo Dowhile");
+
+        }
+
+        private static void progama_while()
+        {
+            System.Console.WriteLine("Aqui llamo el ejemplo While");
+        }
+
+        private static void programa_for()
+        {
+           System.Console.WriteLine("Aqui llamo el ejemplo For");
+        }
+
+        private static void Programa_switch()
+        {
+            System.Console.WriteLine("Aqui llamo el ejemplo Switch");
+        }
+
+        private static void Programa_if()
+        {
+            System.Console.WriteLine("Aqui llamo al ejemplo If");
         }
     }
 }
