@@ -2,11 +2,11 @@
 
 namespace semana_3_proyecto_de_menu_con_estructuras
 {
-    class Ejemplo_for
+    class Ejemplo_swich
     {
-        static void Estructura_for()
+        static void Estructura_switch()
         {
-            System.Console.WriteLine("for externo");
+            System.Console.WriteLine("switch externo");
         }
     }
 }
