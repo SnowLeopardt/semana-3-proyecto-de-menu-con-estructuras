@@ -2,11 +2,11 @@
 
 namespace semana_3_proyecto_de_menu_con_estructuras
 {
-    class Ejemplo_swich
+    class Ejemplo_if
     {
-        static void Estructura_switch()
+        static void Estructura_if()
         {
-            System.Console.WriteLine("switch externo");
+            System.Console.WriteLine("if externo");
         }
     }
 }
