@@ -2,11 +2,11 @@
 
 namespace semana_3_proyecto_de_menu_con_estructuras
 {
-    class Ejemplo_While
+    class Ejemplo_dowhile
     {
-        static void Estructura_While()
+        static void Estructura_dowhile()
         {
-            System.Console.WriteLine("While externo");
+            System.Console.WriteLine("dowhile externo");
         }
     }
 }
