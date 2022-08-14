@@ -2,11 +2,11 @@
 
 namespace semana_3_proyecto_de_menu_con_estructuras
 {
-    class Ejemplo_dowhile
+    class Ejemplo_for
     {
-        static void Estructura_dowhile()
+        static void Estructura_for()
         {
-            System.Console.WriteLine("dowhile externo");
+            System.Console.WriteLine("for externo");
         }
     }
 }
